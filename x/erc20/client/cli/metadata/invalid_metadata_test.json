@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "uaigent",
+          "exponent": 0
+        },
+        {
+          "denom": "aigen",
+          "exponent": 18
+        }
+      ],
+      "base": "uaigent",
+      "display": "uaigent",
+      "name": "uaigent",
+      "symbol": "aigen"
+    }
+  ]
+}
