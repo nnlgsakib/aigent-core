@@ -19,8 +19,8 @@ package inflation
 import (
 	errorsmod "cosmossdk.io/errors"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/evmos/evmos/v11/x/inflation/keeper"
-	"github.com/evmos/evmos/v11/x/inflation/types"
+	"github.com/nnlgsakib/aigent/x/inflation/keeper"
+	"github.com/nnlgsakib/aigent/x/inflation/types"
 )
 
 // InitGenesis import module genesis

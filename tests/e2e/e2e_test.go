@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/evmos/evmos/v11/tests/e2e/upgrade"
+	"github.com/nnlgsakib/aigent/tests/e2e/upgrade"
 )
 
 // TestUpgrade tests if an Evmos node can be upgraded from one version to another.

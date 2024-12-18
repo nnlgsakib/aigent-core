@@ -13,10 +13,10 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/evmos/evmos/v11/crypto/ethsecp256k1"
-	feemarkettypes "github.com/evmos/evmos/v11/x/feemarket/types"
+	"github.com/nnlgsakib/aigent/crypto/ethsecp256k1"
+	feemarkettypes "github.com/nnlgsakib/aigent/x/feemarket/types"
 
-	"github.com/evmos/evmos/v11/app"
+	"github.com/nnlgsakib/aigent/app"
 )
 
 type UpgradeTestSuite struct {

@@ -25,10 +25,10 @@ import (
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
-	rpctypes "github.com/evmos/evmos/v11/rpc/types"
-	"github.com/evmos/evmos/v11/types"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
-	feemarkettypes "github.com/evmos/evmos/v11/x/feemarket/types"
+	rpctypes "github.com/nnlgsakib/aigent/rpc/types"
+	"github.com/nnlgsakib/aigent/types"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
+	feemarkettypes "github.com/nnlgsakib/aigent/x/feemarket/types"
 	tmrpctypes "github.com/tendermint/tendermint/rpc/core/types"
 )
 

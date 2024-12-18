@@ -18,7 +18,7 @@ package keeper
 import (
 	"math/big"
 
-	"github.com/evmos/evmos/v11/x/feemarket/types"
+	"github.com/nnlgsakib/aigent/x/feemarket/types"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )

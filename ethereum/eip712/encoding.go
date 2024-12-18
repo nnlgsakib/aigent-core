@@ -26,7 +26,7 @@ import (
 	txTypes "github.com/cosmos/cosmos-sdk/types/tx"
 
 	apitypes "github.com/ethereum/go-ethereum/signer/core/apitypes"
-	evmostypes "github.com/evmos/evmos/v11/types"
+	evmostypes "github.com/nnlgsakib/aigent/types"
 
 	"github.com/cosmos/cosmos-sdk/codec"
 )

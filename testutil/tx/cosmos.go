@@ -26,8 +26,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/tx/signing"
 	authsigning "github.com/cosmos/cosmos-sdk/x/auth/signing"
 
-	"github.com/evmos/evmos/v11/app"
-	"github.com/evmos/evmos/v11/utils"
+	"github.com/nnlgsakib/aigent/app"
+	"github.com/nnlgsakib/aigent/utils"
 )
 
 var (

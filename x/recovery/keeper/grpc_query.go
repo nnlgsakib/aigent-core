@@ -21,7 +21,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/evmos/evmos/v11/x/recovery/types"
+	"github.com/nnlgsakib/aigent/x/recovery/types"
 )
 
 var _ types.QueryServer = Keeper{}

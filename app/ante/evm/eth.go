@@ -25,10 +25,10 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	errortypes "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/evmos/evmos/v11/types"
-	"github.com/evmos/evmos/v11/x/evm/keeper"
-	"github.com/evmos/evmos/v11/x/evm/statedb"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/types"
+	"github.com/nnlgsakib/aigent/x/evm/keeper"
+	"github.com/nnlgsakib/aigent/x/evm/statedb"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
 
 	"github.com/ethereum/go-ethereum/common"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"

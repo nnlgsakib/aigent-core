@@ -26,9 +26,9 @@ import (
 	"github.com/ethereum/go-ethereum/core/vm"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/evmos/evmos/v11/x/evm/statedb"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
-	feemarkettypes "github.com/evmos/evmos/v11/x/feemarket/types"
+	"github.com/nnlgsakib/aigent/x/evm/statedb"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
+	feemarkettypes "github.com/nnlgsakib/aigent/x/feemarket/types"
 )
 
 // EVMKeeper defines the expected keeper interface used on the AnteHandler

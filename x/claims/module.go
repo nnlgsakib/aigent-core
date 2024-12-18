@@ -33,9 +33,9 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/evmos/evmos/v11/x/claims/client/cli"
-	"github.com/evmos/evmos/v11/x/claims/keeper"
-	"github.com/evmos/evmos/v11/x/claims/types"
+	"github.com/nnlgsakib/aigent/x/claims/client/cli"
+	"github.com/nnlgsakib/aigent/x/claims/keeper"
+	"github.com/nnlgsakib/aigent/x/claims/types"
 )
 
 var (

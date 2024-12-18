@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/ethereum/go-ethereum/common"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
 	"github.com/stretchr/testify/require"
 	abci "github.com/tendermint/tendermint/abci/types"
 )

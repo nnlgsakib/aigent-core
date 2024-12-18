@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	utiltx "github.com/evmos/evmos/v11/testutil/tx"
-	"github.com/evmos/evmos/v11/x/incentives/types"
+	utiltx "github.com/nnlgsakib/aigent/testutil/tx"
+	"github.com/nnlgsakib/aigent/x/incentives/types"
 )
 
 func (suite KeeperTestSuite) TestRegisterIncentive() { //nolint:govet // we can copy locks here because it is a test

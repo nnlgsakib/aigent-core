@@ -11,10 +11,10 @@ import (
 	tmrpcclient "github.com/tendermint/tendermint/rpc/client"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/evmos/evmos/v11/rpc/backend/mocks"
-	rpctypes "github.com/evmos/evmos/v11/rpc/types"
-	utiltx "github.com/evmos/evmos/v11/testutil/tx"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/rpc/backend/mocks"
+	rpctypes "github.com/nnlgsakib/aigent/rpc/types"
+	utiltx "github.com/nnlgsakib/aigent/testutil/tx"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
 )
 
 func (suite *BackendTestSuite) TestGetCode() {

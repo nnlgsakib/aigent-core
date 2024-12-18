@@ -21,7 +21,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	errortypes "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/evmos/evmos/v11/x/vesting/types"
+	"github.com/nnlgsakib/aigent/x/vesting/types"
 )
 
 // NewHandler defines the vesting module handler instance

@@ -19,7 +19,7 @@ package utils
 import (
 	"strings"
 
-	"github.com/evmos/evmos/v11/crypto/ethsecp256k1"
+	"github.com/nnlgsakib/aigent/crypto/ethsecp256k1"
 
 	errorsmod "cosmossdk.io/errors"
 	"github.com/cosmos/cosmos-sdk/crypto/keys/ed25519"

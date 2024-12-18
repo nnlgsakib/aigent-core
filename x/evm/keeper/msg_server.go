@@ -31,7 +31,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/telemetry"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/x/evm/types"
 )
 
 var _ types.MsgServer = &Keeper{}

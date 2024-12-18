@@ -1,4 +1,4 @@
-module github.com/evmos/evmos/v11
+module github.com/nnlgsakib/aigent
 
 go 1.19
 

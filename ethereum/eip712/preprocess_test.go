@@ -14,13 +14,13 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/auth/ante"
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 
-	"github.com/evmos/evmos/v11/app"
-	"github.com/evmos/evmos/v11/cmd/config"
-	"github.com/evmos/evmos/v11/encoding"
-	"github.com/evmos/evmos/v11/ethereum/eip712"
-	utiltx "github.com/evmos/evmos/v11/testutil/tx"
-	"github.com/evmos/evmos/v11/types"
-	"github.com/evmos/evmos/v11/utils"
+	"github.com/nnlgsakib/aigent/app"
+	"github.com/nnlgsakib/aigent/cmd/config"
+	"github.com/nnlgsakib/aigent/encoding"
+	"github.com/nnlgsakib/aigent/ethereum/eip712"
+	utiltx "github.com/nnlgsakib/aigent/testutil/tx"
+	"github.com/nnlgsakib/aigent/types"
+	"github.com/nnlgsakib/aigent/utils"
 	"github.com/stretchr/testify/require"
 )
 

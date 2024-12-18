@@ -23,8 +23,8 @@ import (
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/evmos/evmos/v11/app"
-	cmdcfg "github.com/evmos/evmos/v11/cmd/config"
+	"github.com/nnlgsakib/aigent/app"
+	cmdcfg "github.com/nnlgsakib/aigent/cmd/config"
 )
 
 func main() {

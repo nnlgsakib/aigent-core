@@ -21,8 +21,8 @@ import (
 	errorsmod "cosmossdk.io/errors"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	errortypes "github.com/cosmos/cosmos-sdk/types/errors"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
-	vestingtypes "github.com/evmos/evmos/v11/x/vesting/types"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
+	vestingtypes "github.com/nnlgsakib/aigent/x/vesting/types"
 )
 
 // EthVestingTransactionDecorator validates if clawback vesting accounts are

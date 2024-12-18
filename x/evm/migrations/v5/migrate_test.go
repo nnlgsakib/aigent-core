@@ -22,11 +22,11 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/evmos/evmos/v11/app"
-	"github.com/evmos/evmos/v11/encoding"
-	v5 "github.com/evmos/evmos/v11/x/evm/migrations/v5"
-	v5types "github.com/evmos/evmos/v11/x/evm/migrations/v5/types"
-	"github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/app"
+	"github.com/nnlgsakib/aigent/encoding"
+	v5 "github.com/nnlgsakib/aigent/x/evm/migrations/v5"
+	v5types "github.com/nnlgsakib/aigent/x/evm/migrations/v5/types"
+	"github.com/nnlgsakib/aigent/x/evm/types"
 )
 
 func TestMigrate(t *testing.T) {

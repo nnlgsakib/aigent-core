@@ -31,9 +31,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	evmostypes "github.com/evmos/evmos/v11/types"
+	evmostypes "github.com/nnlgsakib/aigent/types"
 
-	"github.com/evmos/evmos/v11/x/erc20/types"
+	"github.com/nnlgsakib/aigent/x/erc20/types"
 )
 
 // NewTxCmd returns a root CLI command handler for erc20 transaction commands

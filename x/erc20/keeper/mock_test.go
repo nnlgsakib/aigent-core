@@ -8,9 +8,9 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core"
 	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/evmos/evmos/v11/x/erc20/types"
-	"github.com/evmos/evmos/v11/x/evm/statedb"
-	evm "github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/x/erc20/types"
+	"github.com/nnlgsakib/aigent/x/evm/statedb"
+	evm "github.com/nnlgsakib/aigent/x/evm/types"
 	"github.com/stretchr/testify/mock"
 )
 

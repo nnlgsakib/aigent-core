@@ -33,11 +33,11 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/evmos/evmos/v11/crypto/ethsecp256k1"
-	rpctypes "github.com/evmos/evmos/v11/rpc/types"
-	"github.com/evmos/evmos/v11/server/config"
-	"github.com/evmos/evmos/v11/types"
-	evmtypes "github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/crypto/ethsecp256k1"
+	rpctypes "github.com/nnlgsakib/aigent/rpc/types"
+	"github.com/nnlgsakib/aigent/server/config"
+	"github.com/nnlgsakib/aigent/types"
+	evmtypes "github.com/nnlgsakib/aigent/x/evm/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 )
 

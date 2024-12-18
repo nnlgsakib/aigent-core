@@ -34,9 +34,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 
-	"github.com/evmos/evmos/v11/x/feemarket/client/cli"
-	"github.com/evmos/evmos/v11/x/feemarket/keeper"
-	"github.com/evmos/evmos/v11/x/feemarket/types"
+	"github.com/nnlgsakib/aigent/x/feemarket/client/cli"
+	"github.com/nnlgsakib/aigent/x/feemarket/keeper"
+	"github.com/nnlgsakib/aigent/x/feemarket/types"
 )
 
 var (

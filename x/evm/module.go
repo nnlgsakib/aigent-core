@@ -34,9 +34,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 
-	"github.com/evmos/evmos/v11/x/evm/client/cli"
-	"github.com/evmos/evmos/v11/x/evm/keeper"
-	"github.com/evmos/evmos/v11/x/evm/types"
+	"github.com/nnlgsakib/aigent/x/evm/client/cli"
+	"github.com/nnlgsakib/aigent/x/evm/keeper"
+	"github.com/nnlgsakib/aigent/x/evm/types"
 )
 
 var (
