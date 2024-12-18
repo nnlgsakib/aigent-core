@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/nnlgsakib/aigent/app"
-	evmosd "github.com/nnlgsakib/aigent/cmd/evmosd"
+	evmosd "github.com/nnlgsakib/aigent/cmd/aigen"
 	"github.com/nnlgsakib/aigent/utils"
 )
 
